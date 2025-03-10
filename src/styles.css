@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: bisque;
+  padding: 20px;
+}
+
+.scrollcontent {
+  height: 230px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  background-color: aqua;
+}
+.downdiv {
+  height: 250px;
+  overflow-y: auto;
+  border: 1px solid black;
+  margin-top: 20px;
+  padding: 10px;
+}
